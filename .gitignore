@@ -1,8 +1,6 @@
 #include <iostream>
 #include <ctime>
-using namespace std;//四種分別是 a 蘋果 b 金橘子 c香蕉 d 可頌 大家加油!
-
-//你們太棒了,前面功能都改完了,Ctime看你們應該是複製網路上的,就留給你們再去再去研究看看! 
+using namespace std;//四種分別是 a 蘋果 b 金橘子 c香蕉 d 可頌 
  
 int main() {
   int mode = 0;
